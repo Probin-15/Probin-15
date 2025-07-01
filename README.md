@@ -27,8 +27,8 @@ I'm a curious and motivated Computer Engineering student with a strong foundatio
 
 I'm always open to connect, collaborate, or just chat about tech and ideas!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 📧 Email: your.email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/probin-bhagchandani/)  
+- 📧 Email: probinbhagchandani1509@gmail.com
 
 ---
 
